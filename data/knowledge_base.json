@@ -1,0 +1,27 @@
+[
+    {
+        "category": "password_reset",
+        "question": "How do I reset my password?",
+        "answer": "Visit the ArcTech password reset portal or contact the IT Helpdesk if you cannot access your account."
+    },
+    {
+        "category": "vpn",
+        "question": "VPN is not connecting",
+        "answer": "Check your internet connection, verify your VPN credentials, and restart the VPN client."
+    },
+    {
+        "category": "wifi",
+        "question": "I cannot connect to WiFi",
+        "answer": "Restart your device and reconnect to the company WiFi. If the problem continues, contact IT."
+    },
+    {
+        "category": "printer",
+        "question": "Printer is offline",
+        "answer": "Ensure the printer is powered on and connected to the company network."
+    },
+    {
+        "category": "outlook",
+        "question": "Outlook is not sending emails",
+        "answer": "Restart Outlook and verify your internet connection."
+    }
+]
